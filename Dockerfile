@@ -1,5 +1,5 @@
 FROM ubuntu:14.04
-Expose port 8888
+Expose 8888
 
 ENV PYTHONPATH /opt/caffe/python
 
